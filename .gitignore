@@ -1,0 +1,75 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+build/
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+xcuserdata/
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+
+# Sensitive Information
+Config.swift
+Secrets.swift
+APIKeys.swift
+GoogleService-Info.plist
+*.plist
+!Info.plist
+Settings.bundle
+.env
+.env.local
+
+# Fastlane
+fastlane/
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+injected_container.swift
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
