@@ -4,9 +4,7 @@ GreenScope is an innovative iOS application that empowers users to make sustaina
 
 
 ## 📱 App Screenshots
-
-
-<div
+<div>
   <a href="ProjectView/login:signup.png">
     <img width="120" src="ProjectView/login:signup.png" alt="Login/Signup"/>
   </a>
@@ -20,7 +18,7 @@ GreenScope is an innovative iOS application that empowers users to make sustaina
     <img width="120" src="ProjectView/resetpassword.png" alt="Reset Password"/>
   </a>
 </div>
-<div
+<div>
   <a href="ProjectView/homeview.png">
     <img width="120" src="ProjectView/homeview.png" alt="Home View"/>
   </a>
@@ -36,13 +34,11 @@ GreenScope is an innovative iOS application that empowers users to make sustaina
 </div>
 
 ## 🎥 Demo
-<div
-  <a href="https://youtu.be/ddkkGO0dOls">
+<div>
+  <a href="https://youtu.be/ddkkGO0dOls" target="_blank">
     <img width="200" src="ProjectView/demoyoutube.png" alt="GreenScope Demo"/>
   </a>
-    <p><small><i>👆 Click to watch the demo</i></small></p>
-</div>
-
+  <p><small><i>👆 Click to watch the demo</i></small></p>
 </div>
 
 
