@@ -2,6 +2,53 @@
 
 GreenScope is an innovative iOS application that empowers users to make sustainable choices through AI-powered product analysis and community engagement. Using OpenAI's Vision API and Firebase services, the app provides detailed sustainability insights and connects eco-conscious individuals.
 
+
+## 📱 App Screenshots
+
+
+<div
+  <a href="ProjectView/login:signup.png">
+    <img width="120" src="ProjectView/login:signup.png" alt="Login/Signup"/>
+  </a>
+  <a href="ProjectView/createaccount.png">
+    <img width="120" src="ProjectView/createaccount.png" alt="Create Account"/>
+  </a>
+  <a href="ProjectView/invalidpassword.png">
+    <img width="120" src="ProjectView/invalidpassword.png" alt="Invalid Password"/>
+  </a>
+  <a href="ProjectView/resetpassword.png">
+    <img width="120" src="ProjectView/resetpassword.png" alt="Reset Password"/>
+  </a>
+</div>
+<div
+  <a href="ProjectView/homeview.png">
+    <img width="120" src="ProjectView/homeview.png" alt="Home View"/>
+  </a>
+  <a href="ProjectView/features2.png">
+    <img width="120" src="ProjectView/features2.png" alt="Features"/>
+  </a>
+  <a href="ProjectView/profileview.png">
+    <img width="120" src="ProjectView/profileview.png" alt="Profile View"/>
+  </a>
+  <a href="ProjectView/notification%20view.png">
+    <img width="120" src="ProjectView/notification%20view.png" alt="Notifications"/>
+  </a>
+</div>
+
+## 🎥 Demo
+<div
+  <a href="https://youtu.be/ddkkGO0dOls">
+    <img width="200" src="ProjectView/demoyoutube.png" alt="GreenScope Demo"/>
+  </a>
+    <p><small><i>👆 Click to watch the demo</i></small></p>
+</div>
+
+</div>
+
+
+
+
+
 ## Project Structure 📁
 
 ```
@@ -266,11 +313,11 @@ File > Packages > Reset Package Cache
 
 ## License 📝
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License
 
 ## Credits 👏
 
-Created by Victor Udeh & Shedrack Udeh
+Created by Victor Udeh
 
 ## Contact 📫
 
